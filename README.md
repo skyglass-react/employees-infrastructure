@@ -1,2 +1,2 @@
-# employees-infrastructure
-Employees AWS Infrastructure with Terraform, Kubernetes and Jenkins
+# petclinic-online-infrastructure
+Petclinic Online AWS Infrastructure with Terraform
